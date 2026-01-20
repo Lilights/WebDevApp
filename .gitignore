@@ -1,0 +1,4 @@
+node _modules/
+db.sqlite
+sessions.sqlite
+.env
