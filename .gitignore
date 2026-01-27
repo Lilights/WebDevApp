@@ -1,4 +1,5 @@
-node _modules/
+node_modules/
 db.sqlite
 sessions.sqlite
 .env
+13_sql.zip
